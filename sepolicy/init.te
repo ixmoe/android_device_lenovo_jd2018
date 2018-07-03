@@ -1,0 +1,3 @@
+allow init configfs:file write;
+allow init kernel:system module_request;
+
